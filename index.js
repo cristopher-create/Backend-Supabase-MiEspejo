@@ -1,5 +1,4 @@
 // index.js (VERSIÓN FINAL OPTIMIZADA)
-require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const { createClient } = require('@supabase/supabase-js');
